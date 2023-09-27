@@ -1,0 +1,4 @@
+Suma = 27
+Media aritmetica = 5.4
+Minim = 2
+Maxim = 8
