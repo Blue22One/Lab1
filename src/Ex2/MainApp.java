@@ -27,5 +27,6 @@ public class MainApp {
         flux_out.println("Media aritmetica = " + (float)suma/nr);
         flux_out.println("Minim = " + minim);
         flux_out.println("Maxim = " + maxim);
+        scanner.close();
     }
 }

@@ -18,5 +18,6 @@ public class MainApp {
         }
         if(nr==2)
             System.out.println("Nr este PRIM");
+        scanner.close();
     }
 }
